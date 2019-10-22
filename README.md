@@ -1,8 +1,8 @@
-# zapt-maps-sdk-android-dem
+# zapt-maps-sdk-android-demo
 
 Código de demonstração do Zapt Maps Sdk para Android.
 
-Requisitos minímos de para compilação:
+__Requisitos minímos para compilação:__
 
-Android Studio: 3.5
-Gradle: 5.1.1
+* Android Studio: 3.5
+* Gradle: 5.1.1
